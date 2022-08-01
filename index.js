@@ -5,4 +5,6 @@ let sample1=null;
 let town = ["thika","nairobi","embu" ];
 
 let PlantIds= new Map()
- PlantIds.set 
+ //PlantIds.set 
+ console.log ("github");
+ 
